@@ -73,3 +73,7 @@ There are two videos to support:
 Click an emoji to tell us.
 
 <!-- END GENERATED SECTION DO NOT EDIT -->
+=======
+# recipe_directory
+challenge: test drive a RecipeRepository that has .all() and .find() methods. 
+>>>>>>> 3365bb2bbc9efdcfd6cbdee14ec32747eeafc8aa
